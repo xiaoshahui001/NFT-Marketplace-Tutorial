@@ -1,3 +1,4 @@
+
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
@@ -180,3 +181,4 @@ contract NFTMarketplace is ERC721URIStorage {
     //In that case, tokens won't be listed by default but users can send a request to actually list a token
     //Currently NFTs are listed by default
 }
+    
